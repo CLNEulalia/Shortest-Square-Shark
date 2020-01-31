@@ -18,7 +18,9 @@ How you do these coding challenges is up to you:
 
 You've heard of Fizz Buzz, but now... let's Baby Shark! 
 
-Write a function called `babyShark` that takes a number as an argument. Console log as many lines as the number passed in. For every odd numbered line, have it say `Baby shark`. For every even numbered line, have it say `doo doo do doo do do`  
+Write a function called `babyShark` that takes a number as an argument. Console log as many lines as the number passed in. 
+  - For every odd numbered line, have it print `Baby shark`
+  - For every even numbered line, have it print `doo doo do doo do do`  
 
 **Example Output:** 
 
